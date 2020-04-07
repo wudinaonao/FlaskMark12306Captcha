@@ -1,0 +1,5 @@
+# Project exclude paths
+/demo/
+/frontend/flask-mark-12306-captcha-frontend/node_modules
+/frontend/flask-mark-12306-captcha-frontend/public
+/frontend/flask-mark-12306-captcha-frontend/src
