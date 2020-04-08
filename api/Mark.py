@@ -11,6 +11,7 @@ import json
 
 mark = Blueprint("mark", __name__, url_prefix="/{}/api/{}/mark".format(Config.APP_NAME, Config.APP_VERSION))
 
+
 @mark.route("", methods=["POST"])
 def markCaptcha():
     """mark captcha"""
