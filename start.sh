@@ -42,7 +42,7 @@
 #pyuwsgi -s 0.0.0.0:8848 -w App:app
 #export PATH=/var/www/FlaskMark12306Captcha/env/bin:$PATH
 # pyuwsgi uwsgi.ini
-/var/www/FlaskMark12306Captcha/env/bin/python /var/www/FlaskMark12306Captcha/env/bin/pyuwsgi --ini /var/www/FlaskMark12306Captcha/uwsgi.ini
+# /var/www/FlaskMark12306Captcha/env/bin/python /var/www/FlaskMark12306Captcha/env/bin/pyuwsgi --ini /var/www/FlaskMark12306Captcha/uwsgi.ini
 
 
 # docker run command

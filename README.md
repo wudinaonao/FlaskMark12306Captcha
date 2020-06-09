@@ -31,5 +31,5 @@
     return symbolic_fn_wrapper
 ```
 ### 运行结果
-![get](/doc/get.png)
-![mark](/doc/mark.png)
+![get](./doc/get.png)
+![mark](./doc/mark.png)
